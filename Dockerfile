@@ -3,7 +3,7 @@
 #Once, built one can run it as follows:
 #     docker run -it vanitygen /bin/bash -c "vanitygen 1dock"
 
-#This version because libssl1.0 is available there and vanitygen uses t
+#This version because libssl1.0 is available there and vanitygen uses it
 FROM ubuntu:18.04
 
 ######### Optional things to adjust ########
